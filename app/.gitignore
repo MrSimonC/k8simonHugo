@@ -1,3 +1,4 @@
 resources/_gen/**
 public/**
 content/readme.md
+node_modules/**
