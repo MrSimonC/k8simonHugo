@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: # for example username/reponame
+  repo: MrSimonC/k8simonHugo # for example username/reponame
   branch: main # Branch to update (optional; defaults to master)
-  site_domain: # for example www.how2code.info
-  base_url: # used by oauth authentication, for example https://www.how2code.info
+  site_domain: azurestaticapps.net # for example www.how2code.info
+  base_url: https://purple-glacier-04711d003.1.azurestaticapps.net/ # used by oauth authentication, for example https://www.how2code.info
   auth_endpoint: api/auth # don't change, used for azure static webapp oauth authentication
 
 media_folder: "app/static/images" # Folder where user uploaded files should go
