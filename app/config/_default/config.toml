@@ -6,7 +6,7 @@ author = "Simon Crouch"
 copyright = "Copyright © 2022 Simon Crouch and the Hugo Authors; all rights reserved."
 # canonifyurls = true
 paginate = 10
-theme = "hugo-clarity"
+theme = "blist"
 
 disqusShortname = ""
 
