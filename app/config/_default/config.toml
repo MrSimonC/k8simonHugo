@@ -1,9 +1,9 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://example.com/"  # Include trailing slash
-title = "Clarity"
-author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+baseurl = "https://purple-glacier-04711d003.1.azurestaticapps.net/"  # Include trailing slash
+title = "K8Simon"
+author = "Simon Crouch"
+copyright = "Copyright © 2022 Simon Crouch and the Hugo Authors; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
