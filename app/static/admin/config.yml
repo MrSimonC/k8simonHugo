@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: MrSimonC/k8simonHugo # for example username/reponame
+  repo: mrsimonc/k8simonhugo # for example username/reponame
   branch: main # Branch to update (optional; defaults to master)
   site_domain: purple-glacier-04711d003.1.azurestaticapps.net # for example www.how2code.info
   base_url: https://purple-glacier-04711d003.1.azurestaticapps.net # used by oauth authentication, for example https://www.how2code.info
